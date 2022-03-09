@@ -1,0 +1,44 @@
+temperature,Humidity,has_wind,weather_now
+26,78,8,Partly Cloudy
+26,74,8,Partly Cloudy
+26,74,9,Partly Cloudy
+26,78,7,Partly Cloudy
+26,78,8,Partly Cloudy
+26,78,7,Partly Cloudy
+26,78,6,Partly Cloudy
+25,83,7,Partly Cloudy
+25,83,7,Partly Cloudy
+25,83,6,Partly Cloudy
+25,83,9,Partly Cloudy
+25,83,10,Partly Cloudy
+25,83,6,Partly Cloudy
+25,83,8,Partly Cloudy
+30,58,10,Fair
+31,52,10,Fair
+31,52,9,Fair
+33,46,7,Fair
+33,43,7,Fair
+34,38,5,Fair
+34,36,10,Fair
+35,32,7,Fair
+35,32,9,Fair
+34,36,8,Fair
+35,34,9,Fair
+35,36,6,Fair
+34,38,9,Partly Cloudy
+34,41,9,Partly Cloudy
+33,41,10,Fair
+32,43,9,Fair
+31,46,8,Fair
+31,46,9,Fair
+30,45,10,Fair
+30,43,9,Fair
+29,45,8,Fair
+29,45,7,Fair
+28,48,8,Fair
+28,51,10,Fair
+28,51,8,Fair
+27,61,10,Fair
+27,65,12,Fair
+27,65,12,Fair
+27,65,10,Fair
