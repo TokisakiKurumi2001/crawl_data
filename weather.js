@@ -1,7 +1,8 @@
 const puppeteer = require('puppeteer');
 const DataFrame = require('dataframe-js').DataFrame;
-const month = 2;
-const days = [2, 3];
+const month = 3;
+const today = 24;
+const days = [today-4, today-3, today-2, today-1];
 
 (async () => {
     const browser = await puppeteer.launch();
